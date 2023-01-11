@@ -1,3 +1,7 @@
+link1 -backend repo
+link2 -frontend repo
+link3 -deployed site
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
